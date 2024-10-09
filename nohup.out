@@ -1,0 +1,1 @@
+22_23_r.sh: 行 504: 2231499 Killed                  ./build/kissat -n --time=5000 ../2023sat/Downloads/2f219dfa21d996e1834aa247f934f304-grs-192-48.cnf > ../log2/ljj_rephase5/2023_r/2f219dfa21d996e1834aa247f934f304.txt
